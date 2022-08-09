@@ -1,0 +1,83 @@
+{
+  "main": {
+    "name": "Sanjeeva Reddy Vulpala",
+    "occupation": "under-grad student",
+    "description": "seeking to learn new things and love exploring new places",
+    "image": "profilepic.jpg",
+    "bio": "I'm a sophomore at Mahindra University, Pursuing major in Artificial Inteligence.",
+    "contactmessage": "Contact me.",
+    "email": "sanjeevareddyV456@gmail.com",
+    "phone": "(+91) 964 055 5529",
+    "address": {
+      "street": "25-2/1/E/1,Mallikarjuna Nagar,Beeramguda",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "502032"
+    },
+    
+    "social": [
+      
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanjeeva-reddy-vulpala-7099a8213/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/__sanjeeva_reddy/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sanjeevareddyv456",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Mahindra University.",
+        "degree": "Bachelor of Technology, Artificial Inteligence Engineering.",
+        "graduated": "May 2025(Expected)",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Outreach Club",
+        "title": "Head of Design",
+        "years": "May 2022 - Present",
+        "description": "It is a Social Welfare Club of Mahindra University, Managed the design requirements of the Club, Personally designed the merchandise and banners for the Club."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Java",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Canva",
+        "level": "90%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "75%"
+      }
+    ]
+  }
+}
